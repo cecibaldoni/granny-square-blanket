@@ -3,9 +3,11 @@ Fun and simple python project to calculate and visualise the best pattern for a 
 
 ## How it started
 
-![My cat, Lyn, laying on the crochet squars for the blanket](~/data/granny-square-blanket/Lyn_blanket.png)
+![My cat, Lyn, laying on the crochet squares for the blanket](img/Lyn_blanket.jpeg)
 
 
 ## How it is going
 
-![Screenshot of the model output](~/data/granny-square-blanket/screen.png)
+![Screenshot of the model output](img/screen.png)
+
+
